@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#5DADE2</color>-->
+    <!--<color name="colorPrimaryDark">#FF369DE1</color>-->
+
+    <color name="colorPrimary">#B00020</color>
+    <color name="colorPrimaryDark">#B00020</color>
+    <color name="colorAccent">#ffb803</color>
+    <color name="colorLightPrimary">#C5CAE9</color>
+    <color name="colorText">#FFFFFF</color>
+    <color name="colorSecondaryText">#757575</color>
+    <color name="colorIcon">#FFFFFF</color>
+    <color name="colorDevider">#BDBDBD</color>
+
+    <!--<color name="colorPrimary">#F50057</color>-->
+    <!--<color name="colorPrimaryDark">#F50057</color>-->
+    <!--<color name="colorAccent">#FF4081</color>-->
+    <color name="viewBg">#f1f5f8</color>
+    <color name="album_title">#4c4c4c</color>
+
+    <color name="blue_sky">#e0f1ff</color>
+    <color name="light_gray">#dbdbdb</color>
+    <color name="gray">#7e7e7e</color>
+    <color name="semi_gray">#979797</color>
+    <color name="dark_gray">#696969</color>
+    <color name="bg_color">#f7f7f7</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="black_effective">#2a2a2a</color>
+    <color name="shadow">#d0d8dc</color>
+    <color name="transparent">#00000000</color>
+    <color name="translucent_white">#88ffffff</color>
+    <color name="blue">#3b5998</color>
+    <color name="google">#d34836</color>
+
+    <!--Design colors-->
+    <color name="red_dark">#F06423</color>
+    <color name="red_dark2">#D85A1B</color>
+    <color name="cyan_light">#c9ebee</color>
+    <color name="cyan">#b5e3e7</color>
+    <color name="cyan_dark">#70BDC6</color>
+    <color name="navy_blue">#214258</color>
+    <color name="navy_blue_dark">#1C3A4E</color>
+    <color name="light_green">#78DC96</color>
+    <color name="light_blue">#55C8F0</color>
+    <color name="blue_black_dark">#13171d</color>
+    <color name="blue_black_light">#516179</color>
+    <color name="blue_grey_light">#A5B4C8</color>
+    <color name="orange">#FFA500</color>
+    <color name="yellow">#fff44f</color>
+
+    <color name="white_15_percent">#26ffffff</color>
+    <color name="white_30_percent">#4Dffffff</color>
+
+    <color name="applicationColorPrimary">#4DD0E1</color>
+    <color name="applicationColorPrimaryDark">#00BCD4</color>
+    <color name="applicationColorAccent">#FF2D42</color>
+    <color name="applicationColorAccentTransparent">#BFffffff</color>
+    <color name="applicationColorWhite">@android:color/white</color>
+    <color name="primary_lite">#FFB4E4EA</color>
+
+    <!--<color name="colorPrimary">#4DD0E1</color>-->
+    <!--<color name="colorPrimaryDark">#00BCD4</color>-->
+    <!--<color name="colorAccent">#FF2D42</color>-->
+    <color name="colorAccentTransparent">#BFffffff</color>
+    <color name="colorWhite">@android:color/white</color>
+    <color name="colorWhiteBg">#f1f1f1</color>
+
+    <color name="main_color_grey_100">@color/material_grey_100</color>
+    <color name="material_grey_300">#ffe0e0e0</color>
+
+    <color name="color_manatee">#979797</color>
+    <color name="color_white">#ffffff</color>
+    <color name="color_black">#000000</color>
+    <color name="color_yellow">#eeff41</color>
+    <color name="color_coral_pink">#ff7474</color>
+    <color name="color_timber_wolf">#d8d8d8</color>
+    <color name="color_olive_drab">#313131</color>
+    <color name="color_electric_blue">#79f0ff</color>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/previous_bottom"
+        android:title="previous"
+        android:icon="@drawable/ic_previous"/>
+
+    <item android:id="@+id/next_bottom"
+        android:title="@string/next_match"
+        android:icon="@drawable/ic_next" />
+
+    <item android:id="@+id/favorite_bottom"
+        android:title="favorite"
+        android:icon="@drawable/ic_add_to_favorites" />
+
+</menu>

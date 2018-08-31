@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="f_root_view" type="id" />
+    <item name="next_match_fragment" type="id" />
+    <item name="prev_match_fragment" type="id" />
+    <item name="favorite_match_fragment" type="id" />
+
+    <item name="navigation_bottom" type="id" />
+
+    <item name="score" type="id" />
+    <item name="team_badge" type="id" />
+    <item name="team_name" type="id" />
+    <item name="spinner" type="id" />
+    <item name="listEventNext" type="id" />
+    <item name="listEventPrev" type="id" />
+
+
+    <item name="add_to_favorite_prev" type="id" />
+    <item name="add_to_favorite_next" type="id" />
+
+    <!--schedule match-->
+    <item name="next_date_match" type="id" />
+
+    <!--previous-->
+    <item name="detail_prev_match" type="id" />
+    <item name="detail_prev_home_name" type="id" />
+    <item name="detail_prev_away_name" type="id" />
+    <item name="date_tv" type="id" />
+    <item name="layout_1" type="id" />
+    <item name="home_team_img" type="id" />
+    <item name="home_score_tv" type="id" />
+    <item name="vs_tv" type="id" />
+    <item name="away_score_tv" type="id" />
+    <item name="away_team_img" type="id" />
+    <item name="layout_2" type="id" />
+    <item name="home_name_tv" type="id" />
+    <item name="away_name_tv" type="id" />
+    <item name="view" type="id" />
+    <item name="goal_scorer_tv" type="id" />
+    <item name="goal_scorer_layout" type="id" />
+    <item name="detail_goal_home_name_tv" type="id" />
+    <item name="detail_goal_away_name_tv" type="id" />
+    <item name="view2" type="id" />
+    <item name="lineup_layout" type="id" />
+    <item name="lineup_tv" type="id" />
+    <item name="detail_lineup_home_tv" type="id" />
+    <item name="detail_lineup_away_tv" type="id" />
+
+    <!--next-->
+    <item name="detail_next_match" type="id" />
+    <item name="detail_next_home_name" type="id" />
+    <item name="detail_next_away_name" type="id" />
+    <item name="next_date_tv" type="id" />
+    <item name="next_layout_1" type="id" />
+    <item name="next_home_score_tv" type="id" />
+    <item name="next_layout_2" type="id" />
+    <item name="next_away_score_tv" type="id" />
+    <item name="next_home_name_tv" type="id" />
+    <item name="next_away_name_tv" type="id" />
+    <item name="next_view" type="id" />
+
+
+    <item name="date_match" type="id" />
+    <item name="schedule_home_score" type="id" />
+    <item name="schedule_away_score" type="id" />
+    <item name="schedule_team_home" type="id" />
+    <item name="schedule_team_away" type="id" />
+
+    <!--favorite-->
+    <item name="favoriteListEvent" type="id" />
+
+</resources>
